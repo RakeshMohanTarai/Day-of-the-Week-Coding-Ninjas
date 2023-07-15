@@ -6,3 +6,5 @@ Write a function 'returnDay' that takes one parameter(number from 1 to 7) and re
 If the number is less than 1 or greater than 7, the function should return null.
 
 Note: Store the days of the week in the array. 
+
+Hosted link :- https://rakeshmohantarai.github.io/Day-of-the-Week-Coding-Ninjas/
